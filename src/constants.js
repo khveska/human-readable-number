@@ -15,14 +15,16 @@ const digits = {
 };
 
 const teens = {
-  2: "twen",
   3: "thir",
   4: "four",
   5: "fif",
   8: "eigh",
 };
 
-const tens = { 4: "for" };
+const tens = {
+  2: "twen",
+  4: "for"
+};
 
 
 const ZERO = "zero";
